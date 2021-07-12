@@ -20,7 +20,7 @@ import java.lang.annotation.Target;
 /**
  * Marks a property, method parameter or method return type for validation cascading.
  * <p>
- * Constraints defined on the object and its properties are be validated when the
+ * Constraints defined on the object and its properties are validated when the
  * property, method parameter or method return type is validated.
  * <p>
  * This behavior is applied recursively.
